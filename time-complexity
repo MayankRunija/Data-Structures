@@ -1,0 +1,10 @@
+Time complexity is defined in terms of how many times it takes to run a given algorithm, based on the 
+length of the input. Time complexity is not a measurement of how much time it takes to execute a 
+particular algorithm because such factors as programming language, operating system, and processing 
+power are also considered.
+
+Time complexity is a type of computational complexity that describes the time required to execute an 
+algorithm. The time complexity of an algorithm is the amount of time it takes for each statement to 
+complete. As a result, it is highly dependent on the size of the processed data. It also aids in 
+defining an algorithm's effectiveness and evaluating its performance.
+
