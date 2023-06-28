@@ -7,17 +7,31 @@ Understanding data structures is a fundamental aspect of computer science and so
 Data Structures
 Here are the data structures currently available in this repository:
 
+
 Array
+
 Linked List
+
 Stack
+
 Queue
+
 Binary Tree
+
 Binary Search Tree
+
 Heap
+
 Hash Table
+
 Graph
+
 Trie
+
 AVL Tree
+
 Red-Black Tree
+
 B-Tree
+
 Each data structure is organized in its own folder and contains the following files:
